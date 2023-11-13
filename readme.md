@@ -1,9 +1,10 @@
 # Inmersión Dev con JavaScript - Alura Latam 🚀
 
 <p>¡Bienvenidos todos a la Inmersión Dev con JavaScript de Alura Latam! 🎉 </p>
-<p>En esta experiencia de aprendizaje,  sumergiriu en el mundo de la programación y JavaScript. A lo largo de inmersión, explorarei varios temas emocionantes para ayudarte a convertirte un desarrollador o una desarrolladora más competente.</p> 
+<p>En esta experiencia de aprendizaje, nos sumergimos en el mundo de la programación y JavaScript. A lo largo de la inmersión, exploramos varios temas prácticos para ayudarte a convertirte en un desarrollador más competente.
+</p> 
 
-<p>Aquí tienes una descripción general de lo que vamos a cubrir:</p>
+<p>Aquí tienes una descripción general de lo que vimos:</p>
 
 ### Contenido
 
@@ -13,7 +14,7 @@
     - Agregar otras monedas para convertir.
     - Conversor de temperaturas entre Fahrenheit, Kelvin y Celsius.
     - Agregar en `el alert` el nombre de la persona que está pidiendo la conversión.
-    - Agregar una línea al proyecto desarrollado para que aparezca el valor en bitcoin.
+    - Agregar una línea al proyecto desarrollado para que aparezca el valor en pesos argentinos.
 
 2. **Aula 02**
     - Hacer pruebas utilizando `prompt`.
@@ -26,7 +27,7 @@
     - Utilizar el método `películas.push("Nombre De La Película")` para insertar un nuevo elemento en la lista (es decir, una nueva película en el array).
     - Descubrir la cantidad de elementos en una matriz con el método `array.length`.
     - Seleccionar elementos de una matriz utilizando la sintaxis `array[numero]`, recordando siempre que el primer índice comienza con cero, es decir, `matriz[0]` para el primer elemento.
-    - Utilizar la instrucción `for` para iterar, es decir, recorrer todos los elementos de una matriz.
+    - Utilizar la instrucción `for` para repetir, es decir, recorrer todos los elementos de una matriz.
     - Crear una matriz con imágenes de carteles de algunas películas que nos gustan.
     - Montar la lógica del programa que va a iterar esta matriz de películas y mostrar cada una de ellas en la pantalla, integrando el `for` de JavaScript con `document.write()`.
 
